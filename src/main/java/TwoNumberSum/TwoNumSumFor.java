@@ -1,5 +1,6 @@
 package TwoNumberSum;
-
+//O(n^2)-Time
+//O(1)-Space
 public class TwoNumSumFor {
     public static int[] twoSumFor (int[] array, int targetSum){
 

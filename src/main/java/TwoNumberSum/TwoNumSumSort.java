@@ -1,7 +1,8 @@
 package TwoNumberSum;
 
 import java.util.Arrays;
-
+//O(nlogn)-Time
+//O(1) space
 public class TwoNumSumSort {
 
     public static int[] sortNum(int[] array,int targetSum){
